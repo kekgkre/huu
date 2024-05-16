@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>개인 웹 페이지</title>
+    <style>
+        /* CSS 스타일을 여기에 추가하세요 */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>여러분의 이름</h1>
+    </header>
+    <section>
+        <h2>자기 소개</h2>
+        <p>여러분의 자기 소개를 여기에 작성하세요.</p>
+    </section>
+    <section>
+        <h2>얼굴 사진</h2>
+        <img src="your_face.jpg" alt="여러분의 얼굴">
+    </section>
+    <footer>
+        <p>&copy; 2024 여러분의 이름</p>
+    </footer>
+</body>
+</html>
